@@ -8,3 +8,19 @@ body {
 h1 {
     color: #5a4fcf;
 }
+input {
+    padding: 10px;
+    width: 250px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #5a4fcf;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #483dbd;
+}
