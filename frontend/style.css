@@ -66,3 +66,15 @@ button:hover {
     margin: auto;
     background-color: #fdfdff;
 }
+.timeline {
+    width: 70%;
+    margin: auto;
+}
+
+.timeline-day {
+    border-left: 5px solid #5a4fcf;
+    padding: 15px;
+    margin: 20px 0;
+    background-color: #f4f4ff;
+}
+
