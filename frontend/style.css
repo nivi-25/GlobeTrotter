@@ -24,3 +24,11 @@ button {
 button:hover {
     background-color: #483dbd;
 }
+.dashboard {
+    margin-top: 40px;
+}
+
+.dashboard button {
+    margin: 10px;
+}
+
