@@ -50,4 +50,12 @@ button:hover {
     margin: 15px 0;
     background-color: #f9f9ff;
 }
+.city-card, .activity-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    width: 300px;
+    margin: 15px auto;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
 
