@@ -31,4 +31,12 @@ button:hover {
 .dashboard button {
     margin: 10px;
 }
+.trip-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
 
