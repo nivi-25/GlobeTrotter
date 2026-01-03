@@ -39,4 +39,15 @@ button:hover {
     border-radius: 8px;
     background-color: #ffffff;
 }
+.itinerary {
+    width: 80%;
+    margin: auto;
+}
+
+.day {
+    border-left: 4px solid #5a4fcf;
+    padding: 10px;
+    margin: 15px 0;
+    background-color: #f9f9ff;
+}
 
